@@ -1,0 +1,1 @@
+This project is a simple web application that acts in a similar way to an etch-a-sketch toy. 
