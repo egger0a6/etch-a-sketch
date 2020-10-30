@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap");
+
+#container {
+    width: 100%;
+    min-height: 100%;
+    margin: 0 auto;
+    font-family: 'Architects Daughter', cursive;
+}
+
+#grid-container {
+    display: grid;
+}
+
+.tile {
+    height: 10px;
+    width: 10px;
+}
